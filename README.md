@@ -11,10 +11,6 @@ This is a simple and responsive **BMI (Body Mass Index) Calculator** built using
 - Reset functionality
 - Responsive design for all devices
 
-## 🚀 Live Project
-
-🔗 [Click here to view the live demo](https://tharuniporeddy.github.io/BMI-Calculator/)
-
 ## 📁 Technologies Used
 
 - HTML5
@@ -28,6 +24,6 @@ This is a simple and responsive **BMI (Body Mass Index) Calculator** built using
 - **Overweight:** 25 – 29.9  
 - **Obese:** 30 or greater
 
----
+----
 
  
